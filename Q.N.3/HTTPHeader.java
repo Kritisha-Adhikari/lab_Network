@@ -5,8 +5,6 @@
 import java.sql.Date;
 
 public class HTTPHeader {
-    
-
     public static void main(String[] args) throws IOException {
         try {
           URI uri = new URI("https://www.example.com");

@@ -3,9 +3,6 @@
 import java.io.*;
 
 public class WebPageDounload {
-
-
-
     public static void main(String[] args) throws URISyntaxException {
         try {
             // Specify the URL
