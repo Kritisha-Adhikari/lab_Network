@@ -1,4 +1,5 @@
-
+// Write a program that downloads WebPage with UrlConnection class. Your output on the 
+// lab report should consist of a few lines of output. 
   import java.net.*;
 import java.io.*;
 
